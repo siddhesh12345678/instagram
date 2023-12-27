@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+   justify-content: center;
+   
+   background-color: pink;
+   padding: 20px 30px;
+   font-size: 20;
+   
+
+}
+header{
+     display: flex;
+     justify-content: space-between;
+     background-color: chartreuse;
+     padding: 30px 40px 10px;
+    margin-top: 20px;
+}
+.abc{
+    display: flex;
+    gap: 30px;
+
+}
+.ab{
+    display: flex;
+    gap: 20px;
+}
+
+
+

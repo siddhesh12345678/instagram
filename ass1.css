@@ -1,0 +1,48 @@
+  
+  table,th,td{
+
+    border: 2px solid black ;
+    border-collapse : collapse;
+
+}
+th{
+    color: aquamarine;
+}
+.ind{
+    color: green;
+}
+.q{
+    color: red;
+}
+#a{
+    color: blue;
+}
+#b{
+    color: green;
+}
+#c{
+    color: black;
+}
+#c{
+    color: yellow;
+}
+#c{
+    color: greenyellow;
+}
+#d{
+    color: red;
+}
+#e{
+    color: blueviolet;
+}
+#f{
+    color: grey;
+}
+#g{
+    color: pink;
+}
+#h{
+    color: crimson;
+}
+#j{color: aqua;}
+#k{color: orange;}

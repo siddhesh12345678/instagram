@@ -1,0 +1,38 @@
+body{
+
+    font-family: 'Kalnia', serif;
+font-family: 'Tiro Devanagari Marathi', serif;
+
+}
+.fa-user{
+    position: absolute;
+    left: 7.5%;
+  top: 1.5%;
+}
+.fa-phone{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}
+.fa-envelope{
+    position: absolute;
+    left: 8.2%;
+    top: 7.2%;
+}
+.fa-lock{
+   position: absolute;
+    left: 12%;
+
+}
+.fa-key{
+    position: absolute;
+    left: 12%;
+}
+.fa-magnifying-glass{
+    position: relative;
+    left: 9%;
+}
+.fa-house{
+    position: relative;
+    left: 8.2%;
+}

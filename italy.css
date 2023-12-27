@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    justify-content: center;
+  
+} 
+/* #cont{
+    background-color:white;
+    width: 80%;
+    display:
+    justify-content: space-between;
+    } */
