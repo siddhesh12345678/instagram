@@ -1,0 +1,21 @@
+#A{
+    text-align: center;
+}
+img{
+  
+  
+}
+img :hover{
+
+   border-radius: 100%;
+    
+}
+table,th,tr,td{
+    border :2px solid black;
+  border-collapse: collapse;
+
+}
+body{
+    
+    color: aqua;
+    }

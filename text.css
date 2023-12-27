@@ -1,0 +1,60 @@
+/* #MI{
+    color: cyan;
+    font-size:90px;
+    text-align: center;  /*positoion of the word*/
+    /* font-weight: 7000;   if we want width of a leteer */
+    /* text-transform: capitalize; /*if we want first letter as capital*/
+    /* letter-spacing: 4px;
+    text-shadow: 2px 2px 2px red; */
+    /* display: inline; */
+
+/* #csk{
+    color: yellow; */
+    /* font-size: 90px; */
+    /* text-align: center; */
+    /* font-weight: 900;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px orangered;  */
+ 
+/* h2{
+    display: inline;
+    text-align: center; */
+/* } */
+#A{
+    text-align: left;
+    font-size: 50px;
+    text-decoration: none;
+    color: blue;
+    text-shadow: 5px 5px 5px black;
+}
+#B{
+   font-size: 30px;
+    text-align: center;
+    color: red;
+    text-shadow: 5px 5px 5px black;
+}
+#C
+{
+   text-align: right;
+    font-size: 20px;
+    color: yellow;
+    text-shadow:5px 5px 5px black;
+}
+a{
+    display:block;
+}
+#MI:hover{ 
+      color: cyan;
+      font-size: 60px;
+      animation-delay: 5ms;
+      transition: 3s;
+      
+}
+#CSK:hover{
+
+    color: red;
+    font-size: 70px;
+    animation-delay: 5ms;
+    transition-delay: 5s;
+}
